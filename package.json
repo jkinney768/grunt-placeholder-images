@@ -2,22 +2,22 @@
   "name": "grunt-placeholder-images",
   "description": "A grunt plugin to generate local placeholder images.",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://github.com/jkinney768/grunt-placeholder-images",
   "author": {
     "name": "Jason Kinney",
     "email": "jkinney768@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jkinney768/grunt-placeholder-images.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/jkinney768/grunt-placeholder-images/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": ""
+      "url": "https://github.com/jkinney768/grunt-placeholder-images/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
